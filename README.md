@@ -1,7 +1,5 @@
 # react-ts-multiplepropsinfun
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-uiqxci)
-
 ```js
 import React from 'react';
 
